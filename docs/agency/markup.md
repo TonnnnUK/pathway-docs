@@ -1,3 +1,0 @@
-# Agency main
----
-> Getting started.
